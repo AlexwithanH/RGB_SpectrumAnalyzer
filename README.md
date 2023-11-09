@@ -6,8 +6,7 @@ In addition to the display, data is also outputed through serial. Pushing the bl
 
 Lots of credit to https://github.com/s-marley/ESP32_FFT_VU , the code used in this project is based on s-marley's code.
 
-![Spectrum graph](https://github.com/AlexwithanH/RGB_SpectrumAnalyzer/blob/main/Images/20220608_155545.jpg)
-https://github.com/AlexwithanH/RGB_SpectrumAnalyzer/blob/main/Images/20220608_155732.jpg
+![Spectrum graph](https://github.com/AlexwithanH/RGB_SpectrumAnalyzer/blob/main/Images/20220608_155732.jpg)
 Coloured spectrum graph
 
 ![device internals](https://github.com/AlexwithanH/RGB_SpectrumAnalyzer/blob/main/Images/20220606_173924.jpg)
@@ -17,4 +16,5 @@ Internals
 Op-amp circuit
 
 ![overview](https://github.com/AlexwithanH/RGB_SpectrumAnalyzer/blob/main/Images/20220608_155545.jpg)
+![overview](https://github.com/AlexwithanH/RGB_SpectrumAnalyzer/blob/main/Images/20220608_155618.jpg)
 Overview
